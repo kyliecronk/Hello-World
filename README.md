@@ -14,15 +14,6 @@ This is a sample of a good README.md file that can be used when describing a pro
 lets add more information.
 
 
-First Repository
-## Heading 1
-### Heading 2
-**bold text**
-
-
-
-- [Heading 1](#Heading-1)
-
 ## Freezing Temps
 *Hello World Sample its so cold!* 
 
@@ -30,13 +21,9 @@ First Repository
 Practicing using GitHub and creating a smaple repository just thinking about how cold it is outside!
 
 ## How to run program
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+
+
    
 ## Files Used
-
+**FREEZING**
 
